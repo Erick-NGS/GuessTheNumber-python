@@ -12,5 +12,6 @@ DESCRIPTION:
 TO-DO LIST:
 1.  Welcome the user with an art logo
 2.  Start with the main question of the game
-3.  Difficulty level of the game
-4.  User chooses a difficulty (Easy = 10 tries / Hard = 10 tries)
+3.  Select a random int between 1-100
+4.  Difficulty level of the game
+5.  User chooses a difficulty (Easy = 10 tries / Hard = 10 tries)
