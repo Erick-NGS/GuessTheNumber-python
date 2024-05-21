@@ -1,3 +1,5 @@
 import os
 
-clear_screen = os.system('cls||clear')
+def clear_screen():
+    """Clear the console screen"""
+    return os.system('cls||clear')
