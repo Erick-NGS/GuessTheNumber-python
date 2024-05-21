@@ -14,4 +14,9 @@ TO-DO LIST:
 2.  Start with the main question of the game
 3.  Select a random int between 1-100
 4.  Difficulty level of the game
-5.  User chooses a difficulty (Easy = 10 tries / Hard = 10 tries)
+5.  User chooses a difficulty (Easy = 10 tries / Hard = 5 tries)
+6.  Display the number of tries that the user has base on the difficulty chooses
+7.  Tip the user saying if his guess is 'too low' or 'too high'
+8.  Display the number of remaining attempts available
+9.  Clear the screen between attempts (UiX)
+10. Display a message if the user got it right or failed
